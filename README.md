@@ -77,15 +77,20 @@ The MVP version of the monday.com connectors has 3 main operations for all entri
 If you need to enable update, you have to add it by extending this connector mvp template. 
 
 **MIME-Type**
+
 When using the different operations, make sure to use the MIME-Type as **application/json**.
+
 ![Image of monday.com MuleSoft Connector](https://github.com/API-Activist/mvp-anypoint-connector-monday.com/blob/master/pictures/03_mime_type.PNG)
 
 
 **Response Fields**
+
 Majority of operations have a **Response Fields** property, where you can provide a GraphQL query for all fields in the output json. 
+
 ![Image of monday.com MuleSoft Connector](https://github.com/API-Activist/mvp-anypoint-connector-monday.com/blob/master/pictures/04_response_fields.PNG)
 
 The output for the above Response Fields query would be: 
+
 ![Image of monday.com MuleSoft Connector](https://github.com/API-Activist/mvp-anypoint-connector-monday.com/blob/master/pictures/05_response.PNG)
 
 ### Operation specific properties
