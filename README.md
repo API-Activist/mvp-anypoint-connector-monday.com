@@ -3,6 +3,7 @@ This is a simple opensource monday.com Connector for Anypoint Studio for exchang
 This monday.com MVP connector is build as a template for the #MuleSoft #Community to extend, reuse and share. 
 
 Use the monday.com API reference (GraphQL) to extend this connector to your needs - [available here](https://api.developer.monday.com/docs/basics)
+
 Also worth using the Interactive API Client of qTest - [available here](https://monday.com/developers/v2/try-it-yourself) 
 
 ![Image of monday.com MuleSoft Connector](https://github.com/API-Activist/mvp-anypoint-connector-monday.com/blob/master/pictures/Monday.com-Logo.wine.png)
