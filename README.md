@@ -136,10 +136,6 @@ By default it is a json sent back as string. Therefor it is required to set the 
 ## Flow Example with monday.com operations
 ![Image of monday.com interaction](https://github.com/API-Activist/mvp-anypoint-connector-monday.com/blob/master/pictures/06_flow_monday_azure_devops.PNG)
 
-	
-## Video Tutorial
-Link to the video tutorial: -to be provided soon-
-
 
 ## Caution
 This connector has been build on windows 10 using the Anypoint Studio 7.10 IDE. It has only been tested with monday.com Cloud. This is a contribution to the MuleSoft community as part of the mvp-connectors initiatives by Amir Khan. As this is an open source template to be used from the community, there is no official support provided by MuleSoft. Also if operations are missing, please use the monday.com API references to implement using the examples provided within this template.
